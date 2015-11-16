@@ -403,79 +403,79 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116195523.1"><vh>@path 40323222</vh>
-<v t="leo.20151116195523.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151116195523.3"><vh>@clean simplest.html</vh>
-<v t="leo.20151116195523.4"><vh>檔案說明</vh></v>
-<v t="leo.20151116195523.5" a="E"><vh>html 標註</vh>
-<v t="leo.20151116195523.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151116195523.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151116195523.8" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151116195523.9"><vh>封面</vh></v>
-<v t="leo.20151116195523.10"><vh>第二頁</vh></v>
-<v t="leo.20151116195523.11"><vh>第三頁</vh></v>
-<v t="leo.20151116195523.12"><vh>第四頁</vh></v>
+<v t="leo.20151116202354.1"><vh>@path 40323222</vh>
+<v t="leo.20151116202354.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151116202354.3"><vh>@clean simplest.html</vh>
+<v t="leo.20151116202354.4"><vh>檔案說明</vh></v>
+<v t="leo.20151116202354.5"><vh>html 標註</vh>
+<v t="leo.20151116202354.6"><vh>body 標註</vh>
+<v t="leo.20151116202354.7"><vh>div class="reveal"</vh>
+<v t="leo.20151116202354.8"><vh>div class="slides"</vh>
+<v t="leo.20151116202354.9"><vh>封面</vh></v>
+<v t="leo.20151116202354.10"><vh>第二頁</vh></v>
+<v t="leo.20151116202354.11"><vh>第三頁</vh></v>
+<v t="leo.20151116202354.12"><vh>第四頁</vh></v>
 </v>
 </v>
-<v t="leo.20151116195523.13"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151116195523.14"><vh>@clean simplest2.html</vh>
-<v t="leo.20151116195523.15"><vh>檔案說明</vh></v>
-<v t="leo.20151116195523.16" a="E"><vh>html 標註</vh>
-<v t="leo.20151116195523.17" a="E"><vh>body 標註</vh>
-<v t="leo.20151116195523.18" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151116195523.19" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151116195523.20"><vh>封面</vh></v>
-<v t="leo.20151116195523.21"><vh>第二頁</vh></v>
-<v t="leo.20151116195523.22"><vh>第三頁</vh></v>
-</v>
-</v>
-<v t="leo.20151116195523.23"><vh>script</vh></v>
+<v t="leo.20151116202354.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151116195523.24"><vh>@clean simplest3.html</vh>
-<v t="leo.20151116195523.25"><vh>檔案說明</vh></v>
-<v t="leo.20151116195523.26" a="E"><vh>html 標註</vh>
-<v t="leo.20151116195523.27" a="E"><vh>body 標註</vh>
-<v t="leo.20151116195523.28" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151116195523.29" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151116195523.30"><vh>封面</vh></v>
-<v t="leo.20151116195523.31"><vh>第二頁</vh></v>
-<v t="leo.20151116195523.32"><vh>第三頁</vh></v>
+<v t="leo.20151116202354.14"><vh>@clean simplest2.html</vh>
+<v t="leo.20151116202354.15"><vh>檔案說明</vh></v>
+<v t="leo.20151116202354.16"><vh>html 標註</vh>
+<v t="leo.20151116202354.17"><vh>body 標註</vh>
+<v t="leo.20151116202354.18"><vh>div class="reveal"</vh>
+<v t="leo.20151116202354.19"><vh>div class="slides"</vh>
+<v t="leo.20151116202354.20"><vh>封面</vh></v>
+<v t="leo.20151116202354.21"><vh>第二頁</vh></v>
+<v t="leo.20151116202354.22"><vh>第三頁</vh></v>
 </v>
 </v>
-<v t="leo.20151116195523.33"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151116195523.34"><vh>@clean simplest4.html</vh>
-<v t="leo.20151116195523.35"><vh>檔案說明</vh></v>
-<v t="leo.20151116195523.36" a="E"><vh>html 標註</vh>
-<v t="leo.20151116195523.37" a="E"><vh>body 標註</vh>
-<v t="leo.20151116195523.38" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151116195523.39" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151116195523.40"><vh>封面</vh></v>
-<v t="leo.20151116195523.41"><vh>第二頁</vh></v>
-<v t="leo.20151116195523.42"><vh>第三頁</vh></v>
-</v>
-</v>
-<v t="leo.20151116195523.43"><vh>script</vh></v>
+<v t="leo.20151116202354.23"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151116195523.44"><vh>@path pelican</vh>
-<v t="leo.20151116195523.45"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151116195523.46"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151116195523.47"><vh>@path content</vh>
-<v t="leo.20151116195523.48"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151116195523.49"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151116195523.50"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151116195523.51"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20151116195523.52"><vh>@edit 2015cphww6.md</vh></v>
-<v t="leo.20151116195523.53"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151116202354.24"><vh>@clean simplest3.html</vh>
+<v t="leo.20151116202354.25"><vh>檔案說明</vh></v>
+<v t="leo.20151116202354.26"><vh>html 標註</vh>
+<v t="leo.20151116202354.27"><vh>body 標註</vh>
+<v t="leo.20151116202354.28"><vh>div class="reveal"</vh>
+<v t="leo.20151116202354.29"><vh>div class="slides"</vh>
+<v t="leo.20151116202354.30"><vh>封面</vh></v>
+<v t="leo.20151116202354.31"><vh>第二頁</vh></v>
+<v t="leo.20151116202354.32"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151116202354.33"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116202354.34"><vh>@clean simplest4.html</vh>
+<v t="leo.20151116202354.35"><vh>檔案說明</vh></v>
+<v t="leo.20151116202354.36"><vh>html 標註</vh>
+<v t="leo.20151116202354.37"><vh>body 標註</vh>
+<v t="leo.20151116202354.38"><vh>div class="reveal"</vh>
+<v t="leo.20151116202354.39"><vh>div class="slides"</vh>
+<v t="leo.20151116202354.40"><vh>封面</vh></v>
+<v t="leo.20151116202354.41"><vh>第二頁</vh></v>
+<v t="leo.20151116202354.42"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151116202354.43"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116202354.44"><vh>@path pelican</vh>
+<v t="leo.20151116202354.45"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151116202354.46"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151116202354.47"><vh>@path content</vh>
+<v t="leo.20151116202354.48"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151116202354.49"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151116202354.50"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151116202354.51"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151116202354.52"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo.20151116202354.53"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -1913,8 +1913,8 @@ g.es("admin pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151116195523.1"></t>
-<t tx="leo.20151116195523.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151116202354.1"></t>
+<t tx="leo.20151116202354.10">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;Git confit – global user.email “ “：讓系統知道使用者之信箱&lt;/p&gt;
     &lt;br&gt;
@@ -1928,7 +1928,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.11">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151116202354.11">&lt;section id="hw-task-one"&gt;
     &lt;p&gt; Git add –A：告訴系統要新增全部&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;Git commit –m “ “：為此註記&lt;/p&gt;
@@ -1941,7 +1941,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.12">&lt;section&gt;
+<t tx="leo.20151116202354.12">&lt;section&gt;
     &lt;h3&gt;心得與自評分數&lt;/h3&gt;
     &lt;p&gt;自評分數為：65分&lt;/p&gt;
     &lt;hr&gt;
@@ -1950,7 +1950,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151116202354.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1959,19 +1959,19 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151116195523.14">@language xml
+<t tx="leo.20151116202354.14">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151116195523.15">&lt;!--
+<t tx="leo.20151116202354.15">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151116195523.16">&lt;!doctype html&gt;
+<t tx="leo.20151116202354.16">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1985,22 +1985,22 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151116195523.17">&lt;body&gt;
+<t tx="leo.20151116202354.17">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151116195523.18">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151116202354.18">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.19">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151116202354.19">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.2"></t>
-<t tx="leo.20151116195523.20">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151116202354.2"></t>
+<t tx="leo.20151116202354.20">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -2009,13 +2009,13 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151116195523.21">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151116202354.21">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;若master裡無資料：git clone後面加"專案名稱 --branch gh-pages" 即可下載之&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.22">&lt;section&gt;
+<t tx="leo.20151116202354.22">&lt;section&gt;
     &lt;h3&gt;心得與自評分數&lt;/h3&gt;
     &lt;p&gt;自評分數為：70分&lt;/p&gt;
     &lt;hr&gt;
@@ -2023,7 +2023,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.23">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151116202354.23">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2032,19 +2032,19 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151116195523.24">@language xml
+<t tx="leo.20151116202354.24">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151116195523.25">&lt;!--
+<t tx="leo.20151116202354.25">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151116195523.26">&lt;!doctype html&gt;
+<t tx="leo.20151116202354.26">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2058,26 +2058,26 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151116195523.27">&lt;body&gt;
+<t tx="leo.20151116202354.27">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151116195523.28">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151116202354.28">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.29">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151116202354.29">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.3">@language xml
+<t tx="leo.20151116202354.3">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151116195523.30">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151116202354.30">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -2086,7 +2086,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151116195523.31">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151116202354.31">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;Git confit – global user.email “ “：讓系統知道使用者之信箱&lt;/p&gt;
     &lt;br&gt;
@@ -2099,7 +2099,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.32">&lt;section&gt;
+<t tx="leo.20151116202354.32">&lt;section&gt;
     &lt;h3&gt;心得與自評分數&lt;/h3&gt;
     &lt;p&gt;自評分數為：75分&lt;/p&gt;
     &lt;hr&gt;
@@ -2107,7 +2107,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.33">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151116202354.33">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2116,19 +2116,19 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151116195523.34">@language xml
+<t tx="leo.20151116202354.34">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151116195523.35">&lt;!--
+<t tx="leo.20151116202354.35">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151116195523.36">&lt;!doctype html&gt;
+<t tx="leo.20151116202354.36">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2142,28 +2142,28 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151116195523.37">&lt;body&gt;
+<t tx="leo.20151116202354.37">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151116195523.38">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151116202354.38">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.39">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151116202354.39">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.4">&lt;!--
+<t tx="leo.20151116202354.4">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151116195523.40">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151116202354.40">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -2172,7 +2172,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151116195523.41">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151116202354.41">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;草繪→繪出斷面→擠出或迴轉：零件&lt;/p&gt;
     &lt;br&gt;
@@ -2185,7 +2185,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.42">&lt;section&gt;
+<t tx="leo.20151116202354.42">&lt;section&gt;
     &lt;h3&gt;心得與自評分數&lt;/h3&gt;
     &lt;p&gt;自評分數為：85分&lt;/p&gt;
     &lt;hr&gt;
@@ -2193,7 +2193,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116195523.43">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151116202354.43">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2202,11 +2202,11 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151116195523.44"></t>
-<t tx="leo.20151116195523.45"></t>
-<t tx="leo.20151116195523.47"></t>
-<t tx="leo.20151116195523.48"></t>
-<t tx="leo.20151116195523.5">&lt;!doctype html&gt;
+<t tx="leo.20151116202354.44"></t>
+<t tx="leo.20151116202354.45"></t>
+<t tx="leo.20151116202354.47"></t>
+<t tx="leo.20151116202354.48"></t>
+<t tx="leo.20151116202354.5">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2220,21 +2220,21 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151116195523.6">&lt;body&gt;
+<t tx="leo.20151116202354.6">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151116195523.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151116202354.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151116202354.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151116195523.9">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151116202354.9">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
